@@ -6,5 +6,7 @@ Konami code dans une page web ;)
 ##Utilisation
 
 ```javascript
-$(document).jqueryKonamiCode(function(){alert("mety!!!!!");});
+$(function(){
+$(document).konami(function(){alert("mety!!!!!");});
+});
 ```
