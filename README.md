@@ -5,6 +5,6 @@ Konami code dans une page web
 
 ##Utilisation
 
-...javascript
+```javascript
 $(document).jqueryKonamiCode(function(){alert("mety!!!!!);});
-...
+```
